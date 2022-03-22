@@ -9895,7 +9895,7 @@ h6 {
 
 a,
 h3.article-title a:hover {
-    color: blueviolet;
+    color: #266bba;
     text-decoration: none;
     transition: color .6s ease
 }
@@ -10384,7 +10384,7 @@ nav#navbar-main li.nav-item {
 .navbar-light .navbar-nav>li.nav-item>a.active,
 .navbar-light .navbar-nav>li.nav-item>a.active:focus,
 .navbar-light .navbar-nav>li.nav-item>a.active:hover {
-    color: blueviolet;
+    color: #266bba;
     font-weight: 700;
     background-color: transparent!important
 }
