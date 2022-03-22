@@ -9902,7 +9902,7 @@ h3.article-title a:hover {
 
 a:hover,
 a:focus {
-    color: #2962ff
+    color: blueviolet;
 }
 
 img,
