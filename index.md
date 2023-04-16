@@ -11,15 +11,18 @@ Along with my studies at Saarland University, I am currently working as a HiWi (
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** image recognition, image analysis, image segmentation
+- **Machine Learning:** few-shot learning, transfer learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Apr. 2023]** Started Masters in Visual Computing at Saarland University, Germany.
+- **[Feb. 2023]** Our paper about Melanoma Segmentation is accepted to Springer Multimedia Tools and Applications.
+- **[Oct. 2022]** Our paper about Face Mask Recognition is accepted to Springer Lecture Notes in Networks and Systems book series.
+- **[Dec. 2021]** Invitied to be a reviewer for The Journal of Supercomputing (IF:2.474).
+- **[Jun. 2021]** Our paper about Brain Tumor Detection is accepted to Springer Advances in Intelligent Systems and Computing book series.
+- **[Nov. 2020]** Two paper accepted to International Journal of Fog Computing.
+- **[Jul. 2020]** Our paper about sentiment analysis is accepted to International Journal of Speech Technology.
 
 {% include_relative _includes/timeline.md %}
 
