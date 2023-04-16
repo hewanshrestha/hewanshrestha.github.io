@@ -8,7 +8,6 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/mtap.png" class="teaser img-fluid z-depth-1">
-    <!--<abbr class="badge">MTAP</abbr>-->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -16,25 +15,15 @@
     <div class="author"><strong>Hewan Shrestha</strong>, Subash Chandra Bose Jaganathan, Chandramohan Dhasarathan, Kannadhasan Suriyan</div>
     <div class="periodical"><em>Springer Multimedia Tools and Applications, 2023.</em></div>
   </div>
-</div>
-  
-  </li>
-   <!---
- <div class="links">
-      <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-    </div>
+</div> 
+</li>
 
--->
- <li>
+  
+<li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/aicds.png" class="teaser img-fluid z-depth-1">
-    <!--<abbr class="badge">MTAP</abbr>-->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -42,8 +31,8 @@
     <div class="author"><strong>Hewan Shrestha</strong>, Chandramohan Dhasarathan, Manish Kumar, R. Nidhya, Achyut Shankar, Manoj Kumar</div>
     <div class="periodical"><em>Springer Advances in Intelligent Systems and Computing, 2022.</em></div>
   </div>
-  </div>
-   </li>
+ </div>
+ </li>
   
   <li>
   
@@ -52,7 +41,6 @@
   
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ijfc2.jpg" class="teaser img-fluid z-depth-1">
-    <!--<abbr class="badge">MTAP</abbr>-->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -70,7 +58,6 @@
   
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ccis.png" class="teaser img-fluid z-depth-1">
-    <!--<abbr class="badge">MTAP</abbr>-->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -88,7 +75,6 @@
     
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ijfc1.jpg" class="teaser img-fluid z-depth-1">
-    <!--<abbr class="badge">MTAP</abbr>-->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -107,7 +93,6 @@
   
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ijst.jpg" class="teaser img-fluid z-depth-1">
-    <!--<abbr class="badge">MTAP</abbr>-->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
