@@ -2,21 +2,23 @@
 title: Hewan Shrestha
 position: M.Sc. Student
 affiliation: Universität des Saarlandes
+affiliation_link: https://uni-saarland.de/
 email: hesh00001(at)stud.uni-saarland.de
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
+keywords: hewan shrestha, hewan stha, shresthahewan, hewanshrestha
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?hl=en&user=7RL2_XAAAAAJ
+orcid: https://orcid.org/0000-0003-3901-2212
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+github_link: https://github.com/hewanshrestha/
+linkedin: https://www.linkedin.com/in/hewanshrestha/
+twitter: https://twitter.com/hewanshrestha/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
