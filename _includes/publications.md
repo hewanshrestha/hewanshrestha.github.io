@@ -17,6 +17,8 @@
     <div class="periodical"><em>Springer Multimedia Tools and Applications, 2023.</em></div>
   </div>
 </div>
+  
+  </li>
    <!---
  <div class="links">
       <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -27,6 +29,7 @@
     </div>
 
 -->
+ <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -40,6 +43,9 @@
     <div class="periodical"><em>Springer Advances in Intelligent Systems and Computing, 2022.</em></div>
   </div>
   </div>
+   </li>
+  
+  <li>
   
   <div class="pub-row">
 
@@ -56,6 +62,9 @@
   </div>
     
   </div>
+    </li>
+  
+  <li>
   
   <div class="pub-row">
   
@@ -71,7 +80,10 @@
   </div>
   
   </div>
+  </li>
   
+  <li>
+    
   <div class="pub-row">
     
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -86,6 +98,10 @@
   </div>
     
   </div>
+    
+    </li>
+  
+  <li>
   
   <div class="pub-row">
   
