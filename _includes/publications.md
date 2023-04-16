@@ -34,11 +34,9 @@
  </div>
  </li>
   
-  <li>
-  
-  <div class="pub-row">
+<li>  
+<div class="pub-row">
 
-  
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ijfc2.jpg" class="teaser img-fluid z-depth-1">
   </div>
@@ -47,14 +45,12 @@
     <div class="title"><a href="https://www.igi-global.com/chapter/recent-advances-in-edge-computing-paradigms/304298">Recent Advances in Edge Computing Paradigms: Taxonomy Benchmarks and Standards for Unconventional Computing</a></div>
     <div class="author">Sana Sodanapalli, <strong>Hewan Shrestha</strong>, Chandramohan Dhasarathan, Puviyarasi T., and Sam Goundar</div>
     <div class="periodical"><em>IGI Research Anthology on Edge Computing Protocols, Applications, and Integration, 2022.</em></div>
-  </div>
-    
-  </div>
-    </li>
+  </div>  
+</div>
+</li>
   
-  <li>
-  
-  <div class="pub-row">
+<li>
+<div class="pub-row">
   
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ccis.png" class="teaser img-fluid z-depth-1">
@@ -66,12 +62,11 @@
     <div class="periodical"><em>Springer Communications in Computer and Information Science, 2021.</em></div>
   </div>
   
-  </div>
-  </li>
+</div>
+</li>
   
-  <li>
-    
-  <div class="pub-row">
+<li> 
+<div class="pub-row">
     
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ijfc1.jpg" class="teaser img-fluid z-depth-1">
@@ -81,13 +76,12 @@
     <div class="title"><a href="https://www.igi-global.com/article/evolution-of-fog-computing-applications-opportunities-and-challenges/284861">Evolution of Fog Computing Applications, Opportunities, and Challenges: A Systematic Review</a></div>
     <div class="author"><strong>Hewan Shrestha</strong>, Puviyarasi T., Sana Sodanapalli, Chandramohan Dhasarathan</div>
     <div class="periodical"><em>IGI International Journal of Fog Computing, 2021.</em></div>
-    </div>  
-  </div>
- 
+   </div>  
+</div>
+</li> 
     
-  <li>
-  
-  <div class="pub-row">
+<li>
+<div class="pub-row">
   
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ijst.jpg" class="teaser img-fluid z-depth-1">
@@ -98,10 +92,8 @@
     <div class="author"><strong>Hewan Shrestha</strong>, Chandramohan Dhasarathan, Shanmugam Munisamy, Amudhavel Jayavel</div>
     <div class="periodical"><em>Springer International Journal of Speech Technology, 2020.</em></div>
   </div>
-  </div> 
+</div> 
 </li>
   
-<br>
-
 </ol>
 </div>
