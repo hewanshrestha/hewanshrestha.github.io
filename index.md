@@ -18,6 +18,8 @@ I am a first-year graduate student pursuing my Masters in Visual Computing at Sa
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
+{% include_relative _includes/timeline.md %}
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
