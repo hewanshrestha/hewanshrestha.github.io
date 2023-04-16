@@ -6,7 +6,12 @@
 
   <tbody>
     <tr>
-      <td>2023 - Present</td>
+      <td>Apr 2023 - Present</td>
+      <td>&ensp;Research Assistant</td>
+      <td>&ensp;<a href="https://saarland-informatics-campus.de/en/forschung-research/research-groups/">Saarland Informatics Campus, Germany</a></td>
+    </tr>
+    <tr>
+      <td>Apr - Present</td>
       <td>&ensp;Master in Visual Computing</td>
       <td>&ensp;<a href="http://www.master-visual-computing.de">Saarland University, Germany</a></td>
     </tr>
