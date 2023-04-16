@@ -11,5 +11,5 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.springer.com/journal/11227"><autocolor>Springer The Journal of Supercomputing</autocolor></a></li>
+  <li><a href="https://www.springer.com/journal/11227"><autocolor>The Journal of Supercomputing</autocolor></a></li>
 </ul>
