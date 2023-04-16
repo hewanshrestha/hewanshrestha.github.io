@@ -81,12 +81,10 @@
     <div class="title"><a href="https://www.igi-global.com/article/evolution-of-fog-computing-applications-opportunities-and-challenges/284861">Evolution of Fog Computing Applications, Opportunities, and Challenges: A Systematic Review</a></div>
     <div class="author"><strong>Hewan Shrestha</strong>, Puviyarasi T., Sana Sodanapalli, Chandramohan Dhasarathan</div>
     <div class="periodical"><em>IGI International Journal of Fog Computing, 2021.</em></div>
+    </div>  
   </div>
+ 
     
-  </div>
-    
-    </li>
-  
   <li>
   
   <div class="pub-row">
@@ -100,9 +98,7 @@
     <div class="author"><strong>Hewan Shrestha</strong>, Chandramohan Dhasarathan, Shanmugam Munisamy, Amudhavel Jayavel</div>
     <div class="periodical"><em>Springer International Journal of Speech Technology, 2020.</em></div>
   </div>
-  </div>
-  
- 
+  </div> 
 </li>
   
 <br>
