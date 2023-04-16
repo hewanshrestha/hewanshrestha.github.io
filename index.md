@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year graduate student pursuing my Masters in Visual Computing at Saarland Informatics Campus, which is a part of Saarland University, Germany. My research interests include Computer Vision, Medical Image Analysis and Zero-Shot Learning.
+I am a first-year graduate student pursuing <a href="http://www.master-visual-computing.de/">Masters in Visual Computing</a> at <a href="https://saarland-informatics-campus.de/">Saarland Informatics Campus</a>, which is a part of <a href="https://uni-saarland.de/en/">Saarland University</a>, Germany. My research interests include Computer Vision, Medical Image Analysis and Zero-Shot Learning.
 
 ## Research Interests
 
