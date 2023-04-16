@@ -15,7 +15,7 @@
     <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Detection and classification of dermatoscopic images using segmentation and transfer learning</a></div>
     <div class="author"><strong>Hewan Shrestha</strong>, Subash Chandra Bose Jaganathan, Chandramohan Dhasarathan, Kannadhasan Suriyan</div>
 
-    <div class="periodical"><em>Springer Multimedia Tools and Applications<strong>(MTAP)</strong>, 2023.</em></div>
+    <div class="periodical"><em>Springer Multimedia Tools and Applications <br> <strong>(MTAP)</strong>, 2023.</em></div>
     <!--<div class="links">
       <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
