@@ -22,7 +22,7 @@
     </tr>
     <tr>
       <td>2018 - 2022</td>
-      <td>&ensp;Bachelor in Computer Engineer</td>
+      <td>&ensp;Bachelor in Computer Engineering</td>
       <td>&ensp;<a href="https://www.jntua.ac.in">JNTUA, India</a></td>
     </tr>
     <tr>
