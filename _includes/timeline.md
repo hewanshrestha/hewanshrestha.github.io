@@ -8,7 +8,7 @@
     <tr>
       <td>Apr 2023 - Present</td>
       <td>&ensp;Research Assistant</td>
-      <td>&ensp;<a href="https://saarland-informatics-campus.de/en/forschung-research/research-groups/">SIC, Saarland University, Germany</a></td>
+      <td>&ensp;<a href="https://sites.google.com/view/wwwi2scnet/startseite/">I<sup>2</sup>SC, Saarland University, Germany</a></td>
     </tr>
     <tr>
       <td>Apr 2023 - Present</td>
