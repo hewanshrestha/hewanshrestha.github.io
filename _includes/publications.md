@@ -11,7 +11,24 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Detection and classification of dermatoscopic images using segmentation and transfer learning</a></div>
+    <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-031-35507-3_56">Face Mask Recognition Based on Two-Stage Detector
+</a></div>
+    <div class="author"><strong>Hewan Shrestha</strong>, Swati Megha, Subham Chakraborty, Manuel Mazzara, Iouri Kotorov</div>
+    <div class="periodical"><em>Springer Lecture Notes in Networks and Systems, 2023.</em></div>
+  </div>
+</div> 
+</li>
+  
+  
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/mtap.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://link.springer.com/article/10.1007/s11042-023-14752-z">Detection and classification of dermatoscopic images using segmentation and transfer learning</a></div>
     <div class="author"><strong>Hewan Shrestha</strong>, Subash Chandra Bose Jaganathan, Chandramohan Dhasarathan, Kannadhasan Suriyan</div>
     <div class="periodical"><em>Springer Multimedia Tools and Applications, 2023.</em></div>
   </div>
