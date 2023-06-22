@@ -3,10 +3,9 @@ layout: homepage
 ---
 
 
-I am a first-year graduate student pursuing <a href="http://www.master-visual-computing.de/">Masters in Visual Computing</a> at <a href="https://saarland-informatics-campus.de/">Saarland Informatics Campus</a>, which is a part of <a href="https://uni-saarland.de/en/">Saarland University</a>, Germany. I received my Bachelors degree in Computer Science and Engineering from <a href="https://jntua.ac.in">Jawaharlal Nehru Technological University Anantapur</a>, India where I was advised by <a href="https://scholar.google.com/citations?hl=en&user=OAFQn1cAAAAJ">Dr. R. Anandkumar</a>. During my bachelors, I completed a research internship program at <a href="https://innopolis.university/en/">Innopolis University</a>, Russia, where I was supervised by <a href="https://scholar.google.com/citations?hl=en&user=th6g2bgAAAAJ">Prof. Dr. Manuel Mazzara</a>.
+I am a first-year graduate student pursuing <a href="http://www.master-visual-computing.de/">Masters in Visual Computing</a> at <a href="https://saarland-informatics-campus.de/">Saarland Informatics Campus</a>, which is a part of <a href="https://uni-saarland.de/en/">Saarland University</a>, Germany. Along with my studies at Saarland University, I am currently working as a HiWi (<em>Research Assistant</em>) in the <a href="https://sites.google.com/view/wwwi2scnet/startseite">Interdisciplinary Institute for Societal Computing Group (I<sup>2</sup>SC)</a> led by <a href="https://scholar.google.com/citations?hl=en&user=3YDUbP0AAAAJ">Prof. Dr. Ingmar Weber</a>.
 
-Along with my studies at Saarland University, I am currently working as a HiWi (<em>Research Assistant</em>) in the <a href="https://sites.google.com/view/wwwi2scnet/startseite">Interdisciplinary Institute for Societal Computing Group</a> led by <a href="https://scholar.google.com/citations?hl=en&user=3YDUbP0AAAAJ">Prof. Dr. Ingmar Weber</a>.
-
+I received my Bachelors degree in Computer Science and Engineering from <a href="https://jntua.ac.in">Jawaharlal Nehru Technological University Anantapur</a>, India. I completed my bachelors thesis with <a href="https://innopolis.university/en/">Innopolis University</a>, Russia, where I was supervised by <a href="https://scholar.google.com/citations?hl=en&user=th6g2bgAAAAJ">Prof. Dr. Manuel Mazzara</a>.
 
 ## Research Interests
 
