@@ -7,6 +7,23 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/llmrs.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2401.06676">LLMRS: Unlocking Potentials of LLM-Based Recommender Systems for Software Purchase</a></div>
+    <div class="author">Angela John, Theophilus Aidoo, Hamayoon Behmanush, Irem B. Gunduz, <strong>Hewan Shrestha</strong>, Maxx Richard Rahman, Wolfgang Maaß</div>
+    <div class="periodical"><em>Arxiv, 2024.</em></div>
+  </div>
+</div> 
+</li>
+
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/lnns.png" class="teaser img-fluid z-depth-1">
   </div>
 
