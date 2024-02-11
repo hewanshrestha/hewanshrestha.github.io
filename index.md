@@ -14,7 +14,8 @@ I received my Bachelors degree in Computer Science and Engineering from <a href=
 
 ## News
 
-- **[May. 2023]** Started working as a <em>HiWi</em> in the Societal Computing research group at Saarland Informatics Campus.
+- **[Dec. 2023]** Our paper about LLM-Based Recommender Systems is accepted at the 33rd Annual Workshop on Information Technologies and Systems (WITS'23)
+- **[May. 2023]** Started working as a <em>HiWi</em> in the Societal Computing research group at Saarland University, Germany.
 - **[Apr. 2023]** Started Masters in Visual Computing at Saarland University, Germany.
 - **[Feb. 2023]** Our paper about Melanoma Segmentation is accepted to Springer Multimedia Tools and Applications.
 - **[Oct. 2022]** Our paper about Face Mask Recognition is accepted to Springer Lecture Notes in Networks and Systems book series.
