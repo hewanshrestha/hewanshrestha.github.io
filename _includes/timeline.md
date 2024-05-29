@@ -8,7 +8,7 @@
     <tr>
       <td>Apr 2023 - Present</td>
       <td>&ensp;Research Assistant</td>
-      <td>&ensp;<a href="https://www.i2sc.net//">I2SC, Saarland University, Germany</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td>&ensp;<a href="https://www.i2sc.net//">I2SC, Saarland University, Germany</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>
     <tr>
       <td>Apr 2023 - Present</td>
@@ -16,7 +16,7 @@
       <td>&ensp;<a href="http://www.master-visual-computing.de">Saarland University, Germany</a></td>
     </tr>
      <tr>
-      <td>Feb 2022 - Apr 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td>Feb 2022 - Apr 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td>&ensp;Research Intern</td>
       <td>&ensp;<a href="https://innopolis.university/en/">Innopolis University, Russia</a></td>
     </tr>
