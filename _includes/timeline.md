@@ -8,7 +8,7 @@
     <tr>
       <td>Apr 2023 - Present</td>
       <td>&ensp;Research Assistant</td>
-      <td>&ensp;<a href="https://www.i2sc.net//">I<sup>2</sup>SC, Saarland University, Germany</a></td>
+      <td>&ensp;<a href="https://www.i2sc.net//">I2SC, Saarland University, Germany</a></td>
     </tr>
     <tr>
       <td>Apr 2023 - Present</td>
