@@ -14,6 +14,7 @@ I received my Bachelors degree in Computer Science and Engineering from <a href=
 
 ## News
 
+- **[Dec. 2024]** Our paper about Parking Lot Occupancy Without Counting Individual Cars has been accepted at the 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25).
 - **[Dec. 2023]** Our paper about LLM-Based Recommender Systems is accepted at the 33rd Annual Workshop on Information Technologies and Systems (WITS'23).
 - **[May. 2023]** Started working as a <em>HiWi</em> in the Societal Computing research group at Saarland University, Germany.
 - **[Apr. 2023]** Started Masters in Visual Computing at Saarland University, Germany.
