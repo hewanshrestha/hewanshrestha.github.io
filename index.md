@@ -25,8 +25,6 @@ I received my Bachelors degree in Computer Science and Engineering from <a href=
 - **[Nov. 2020]** Two paper accepted to International Journal of Fog Computing.
 - **[Jul. 2020]** Our paper about sentiment analysis is accepted to International Journal of Speech Technology.
 
-{% include_relative _includes/timeline.md %}
-
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
