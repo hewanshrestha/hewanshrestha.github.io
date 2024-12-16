@@ -52,7 +52,7 @@
 </div> 
 </li>
 
-  
+<!---  
 <li>
 <div class="pub-row">
 
@@ -67,7 +67,9 @@
   </div>
  </div>
  </li>
-  
+ -->
+ 
+ <!---
 <li>  
 <div class="pub-row">
 
@@ -82,7 +84,10 @@
   </div>  
 </div>
 </li>
-  
+-->
+
+
+<!---  
 <li>
 <div class="pub-row">
   
@@ -98,7 +103,9 @@
   
 </div>
 </li>
-  
+-->
+
+<!---  
 <li> 
 <div class="pub-row">
     
@@ -112,7 +119,8 @@
     <div class="periodical"><em>IGI International Journal of Fog Computing, 2021.</em></div>
    </div>  
 </div>
-</li> 
+</li>
+-->
     
 <li>
 <div class="pub-row">
