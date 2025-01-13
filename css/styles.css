@@ -487,7 +487,19 @@ li .description {
 	footer {
 		margin-top: 2050px;
 	}
-	}
+}
 
+.globe-container {
+	width: 150px; /* Adjust the width as needed */
+	height: 150px; /* Adjust the height as needed */
+	margin: 0 auto; /* Center the container */
+	overflow: hidden; /* Ensure the globe doesn't overflow the container */
+}
+
+.globe-container iframe {
+    width: 100% !important;
+    height: 100% !important;
+    border: none; /* Remove iframe border if present */
+}
 
 /* End of all :P*/
