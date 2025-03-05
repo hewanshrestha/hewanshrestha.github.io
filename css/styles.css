@@ -304,13 +304,14 @@ ol::after {
 }
 
 /* ---- Timeline elements ---- */
-li {
+/* li {
 	position: relative;
 	display: inline-block;
-	/* float: left; */
+	
 	width: 16%;
 	max-width: 150px;
 	vertical-align: top;
+	
 }
 li .line {
   position: absolute;
@@ -344,7 +345,7 @@ li .point {
 li .description {
   text-align: center;
   display: none;
-  /* padding: 10px 0; */
+  
   margin-top: 10px;
   position: relative;
   font-weight: normal;
@@ -359,12 +360,10 @@ li .description {
   content: '';
   width: 0; 
   height: 0; 
-  /* border-left: 5px solid transparent; */
-  /* border-right: 5px solid transparent; */
-  /* border-bottom: 5px solid #f4f4f4; */
+  
   position: absolute;
   top: -5px;
-  /* left: 43%; */
+  
 }
 
 .timeline:after {
@@ -382,15 +381,57 @@ li .description {
 	font-size: 14px;
 	color: #81899C;
 	font-weight: 300;
+} */
+.timeline {
+    display: flex;
+    justify-content: space-between; /* Ensures uniform spacing */
+    align-items: stretch; /* Makes all items the same height */
+    flex-wrap: wrap; /* Allows wrapping if needed */
+    gap: 15px; /* Reduces space between elements */
 }
 
-/* ---- Hover effects ---- */
+li {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; /* Centers content */
+    width: 22%; /* Ensures uniform width */
+    max-width: 160px; /* Keeps uniform size */
+    min-height: 150px; /* Reduces excess height */
+    padding: 10px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+/* Hover effect: Glow in white */
 li:hover {
-  color: #48A4D2;
+    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.9);
 }
+
+/* Allow logo size control from HTML */
+li .logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%; /* Adjust based on container */
+    max-width: 120px; /* Prevents too large images */
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Ensure text stays close to the logo */
 li .description {
-  display: block;
+    display: block;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    color: #5B6A9A;
+    margin-top: 15px; /* Removes unnecessary space */
+    padding: 0 5px; /* Keeps text from touching edges */
 }
+
 
 /*timeline ends*/
 
@@ -446,6 +487,11 @@ li .description {
 		margin-top: 70px;
 		height: 150px;
 	}
+
+	li .logo {
+        width: 70%;
+        max-width: 100px;
+    }
 }
 
 
@@ -465,6 +511,12 @@ li .description {
 		display: none;
 		}
 
+
+	li .logo {
+			width: 60%;
+			max-width: 80px;
+		}
+		
 	.job-title {
 		position: absolute;
 		font-size: 15px;
