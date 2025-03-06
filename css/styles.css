@@ -99,6 +99,7 @@ div , footer {
 		}
 	}
 }
+
 /* Reset ends */
 
 
@@ -304,84 +305,7 @@ ol::after {
 }
 
 /* ---- Timeline elements ---- */
-/* li {
-	position: relative;
-	display: inline-block;
-	
-	width: 16%;
-	max-width: 150px;
-	vertical-align: top;
-	
-}
-li .line {
-  position: absolute;
-  top: -47px;
-  left: 1%;
-  font-size: 20px;
-  font-weight: 600;
-  color: #04143A;
-}
 
-li .logo {
-	display: block;
- 	margin-left: auto;
-  	margin-right: auto;
-	width: 75%;
-	max-width: 80px;
-}
-
-li .point {
-	content: "";
-	top: -3px;
-	left: 0%;
-	display: block;
-	width: 8px;
-	height: 8px;
-	border: 4px solid #EEF0F7;
-	border-radius: 10px;
-	background: #5B6A9A;
-  position: absolute;
-}
-li .description {
-  text-align: center;
-  display: none;
-  
-  margin-top: 10px;
-  position: relative;
-  font-weight: normal;
-  z-index: 1;
-  max-width: 100%;
-  font-size: 14px;
-  font-weight: 500;
-  line-height: 20px;
-  color: #5B6A9A;
-}
-.description::before {
-  content: '';
-  width: 0; 
-  height: 0; 
-  
-  position: absolute;
-  top: -5px;
-  
-}
-
-.timeline:after {
-	display: inline-block;
-	content: "";
-	width: 100%;
-}
-
-.timeline .date{
-	position: absolute;
-	bottom: 0px;
-	text-align: center;
-	width:100%;
-	left: 0px;
-	font-size: 14px;
-	color: #81899C;
-	font-weight: 300;
-} */
 .timeline {
     display: flex;
     justify-content: space-between; /* Ensures uniform spacing */
