@@ -200,8 +200,8 @@ h1.name {
 
 .publication .venue {
 	/* font-weight: bolder; */
-	font-style: italic;
-	color: black;  /* #4A90E2; /* #5B6A9A; */
+	font-style: normal;
+	color: red;  /* #4A90E2; /* #5B6A9A; */
 	margin-top: 0;
 	margin-bottom: 6px;
 }
