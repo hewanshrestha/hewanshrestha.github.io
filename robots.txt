@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hewanshrestha.github.io/sitemap.xml

@@ -51,8 +51,8 @@ body {
 	color: #04143A;
 	margin-left: 20%;
 	margin-right: 20%;
-	margin-top: 10%;
-	margin-bottom: 10%;
+	margin-top: 100px;
+	margin-bottom: 100px;
 }
 ol, ul {
 	list-style: none;
@@ -108,12 +108,23 @@ div , footer {
 .container {
 	max-width: 1100px;
 	height: auto;
-	margin: 60px auto;
+	margin: 44px auto;
 }
 
 .intro {
-	margin: 50px auto; 
+	margin: 0 auto 50px;
 	position: relative;
+}
+
+/* Centre the name and job title against the middle of the portrait. The lead's
+   bottom margin would otherwise sit inside the centred box and lift the visible
+   text above the portrait's midline; the bio below supplies its own spacing. */
+.intro > .row {
+	align-items: center;
+}
+
+.intro > .row .lead {
+	margin-bottom: 0;
 }
 
 h1.name {
@@ -156,7 +167,7 @@ h1.name {
 .lead {
 	font-size: 22px;
 	font-weight: 350;
-	margin-top: 50px;
+	margin-top: 24px;
 	margin-bottom: 20px;
 	line-height: 32px;
 }
@@ -308,10 +319,10 @@ ol::after {
 
 .timeline {
     display: flex;
-    justify-content: space-between; /* Ensures uniform spacing */
+    justify-content: center; /* Centres a wrapped final row instead of stranding it left */
     align-items: stretch; /* Makes all items the same height */
     flex-wrap: wrap; /* Allows wrapping if needed */
-    gap: 15px; /* Reduces space between elements */
+    gap: 20px; /* Reduces space between elements */
 }
 
 li {
@@ -321,8 +332,8 @@ li {
     align-items: center;
     justify-content: center; /* Centers content */
     width: 22%; /* Ensures uniform width */
-    max-width: 160px; /* Keeps uniform size */
-    min-height: 150px; /* Reduces excess height */
+    max-width: 175px; /* Keeps uniform size */
+    min-height: 165px; /* Reduces excess height */
     padding: 10px;
     background: #f8f9fa;
     border-radius: 8px;
@@ -339,9 +350,21 @@ li .logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 80%; /* Adjust based on container */
-    max-width: 120px; /* Prevents too large images */
+    width: 100%;
+    max-width: 132px;
+    height: 58px;
+    object-fit: contain;
     transition: transform 0.3s ease-in-out;
+}
+
+/* Some marks carry a lot of internal whitespace and read small inside the
+   shared box; these nudge them up without changing the box itself. */
+li .logo-zoom {
+    transform: scale(1.18);
+}
+
+li .logo-zoom-lg {
+    transform: scale(1.35);
 }
 
 /* Ensure text stays close to the logo */
@@ -380,6 +403,13 @@ li .description {
 }
 
 @media(max-width: 768px){
+	/* The 20% side margins leave almost no text column on a small screen. */
+	body {
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 5%;
+		margin-bottom: 5%;
+	}
 	.container {
 		padding: 15px;
 		margin: 0px auto;
@@ -413,13 +443,20 @@ li .description {
 	}
 
 	li .logo {
-        width: 70%;
-        max-width: 100px;
+        width: 100%;
+        max-width: 120px;
+        height: 54px;
     }
 }
 
 
 @media(max-width: 425px) {
+	body {
+		margin-left: 0;
+		margin-right: 0;
+		margin-top: 24px;
+		margin-bottom: 24px;
+	}
 	h1.name {
 		font-size: 40px;
 	}
@@ -432,13 +469,21 @@ li .description {
 	}
 
 	.timeline{
-		display: none;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		}
+
+	.timeline li{
+		width: 100%;
+		max-width: 320px;
 		}
 
 
 	li .logo {
-			width: 60%;
-			max-width: 80px;
+			width: 100%;
+			max-width: 150px;
+			height: 60px;
 		}
 		
 	.job-title {
@@ -459,7 +504,7 @@ li .description {
 		padding: 0 15px;
 	}
 	footer {
-		margin-top: 2050px;
+		margin-top: 40px;
 	}
 }
 
@@ -477,3 +522,172 @@ li .description {
 }
 
 /* End of all
+
+/* Research interests: four scannable boxes rather than a flat list. */
+
+.interest-grid {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	gap: 20px;
+}
+
+.interest-box {
+	background: #f8f9fa;
+	border-radius: 8px;
+	box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+	padding: 22px 24px;
+	border-top: 3px solid #3482dc;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.interest-box:hover {
+	transform: translateY(-3px);
+	box-shadow: 0px 8px 18px rgba(0, 0, 0, 0.12);
+}
+
+.interest-box h3 {
+	font-weight: 600;
+	font-size: 17px;
+	line-height: 25px;
+	color: #04143A;
+	margin-bottom: 10px;
+}
+
+.interest-box p {
+	font-size: 15px;
+	line-height: 27px;
+	margin: 0;
+}
+
+@media(max-width: 768px) {
+	.interest-grid {
+		grid-template-columns: 1fr;
+	}
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.interest-box {
+		transition: none;
+	}
+}
+
+/* News: a fixed-height panel that scrolls, showing roughly seven items at a
+   time with the rest a scroll away. */
+
+.news-scroll {
+	max-height: 420px;
+	overflow-y: auto;
+	background: #f8f9fa;
+	border-radius: 8px;
+	box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+	padding: 20px 24px;
+	/* Firefox */
+	scrollbar-width: thin;
+	scrollbar-color: #b9c2d6 transparent;
+}
+
+.news-scroll:focus-visible {
+	outline: 2px solid #3482dc;
+	outline-offset: 2px;
+}
+
+/* WebKit and Blink */
+.news-scroll::-webkit-scrollbar {
+	width: 8px;
+}
+
+.news-scroll::-webkit-scrollbar-track {
+	background: transparent;
+	margin: 6px 0;
+}
+
+.news-scroll::-webkit-scrollbar-thumb {
+	background: #cdd4e4;
+	border-radius: 999px;
+}
+
+.news-scroll::-webkit-scrollbar-thumb:hover {
+	background: #9aa7c4;
+}
+
+.news-item {
+	display: flex;
+	align-items: baseline;
+	gap: 12px;
+	padding: 10px 0;
+	border-top: 1px solid #e7eaf1;
+}
+
+.news-item:first-child {
+	padding-top: 0;
+	border-top: 0;
+}
+
+.news-item:last-child {
+	padding-bottom: 0;
+}
+
+.news-date {
+	flex: 0 0 auto;
+	min-width: 76px;
+	background-color: #D9E7F8;
+	color: #2c6cb8;
+	font-weight: 600;
+	font-size: 12.5px;
+	line-height: 1;
+	text-align: center;
+	padding: 6px 8px;
+	border-radius: 5px;
+}
+
+.news-item p {
+	margin: 0;
+	font-size: 15.5px;
+	line-height: 27px;
+}
+
+@media(max-width: 560px) {
+	.news-scroll {
+		padding: 16px 18px;
+		max-height: 380px;
+	}
+	.news-item {
+		flex-direction: column;
+		gap: 6px;
+	}
+	.news-date {
+		align-self: flex-start;
+		min-width: 0;
+	}
+}
+
+/* Publications */
+
+.pub-more {
+	font-size: 16px;
+	line-height: 29px;
+	margin-top: 8px;
+}
+
+
+@media(max-width: 768px) {
+	.intro div[style*="justify"] {
+		text-align: left !important;
+	}
+}
+
+/* Sections butt up against each other once the container margins collapse
+   on small screens. */
+@media(max-width: 768px) {
+	.container {
+		margin-bottom: 32px;
+	}
+	.section-title {
+		margin-top: 8px;
+	}
+}
+
+/* The intro links reveal as one row rather than five separate buttons. */
+.intro-links {
+	margin-top: 4px;
+}
